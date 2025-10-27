@@ -1,0 +1,12 @@
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\DataPopulator.exe.config
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\DataPopulator.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\DataPopulator.pdb
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\obj\Debug\DataPopulator.csproj.AssemblyReference.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\obj\Debug\DataPopulator.csproj.CoreCompileInputs.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\obj\Debug\DataPopu.F1B64ADF.Up2Date
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\obj\Debug\DataPopulator.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\DataPopulator\DataPopulator\obj\Debug\DataPopulator.pdb

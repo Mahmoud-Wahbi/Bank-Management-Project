@@ -1,0 +1,12 @@
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\bin\Debug\Common.dll
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\bin\Debug\Common.pdb
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\obj\Debug\Common.dll
+C:\Users\Mamhoud\Desktop\BANK Project Ui\Common\obj\Debug\Common.pdb
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\bin\Debug\Common.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\bin\Debug\Common.pdb
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\obj\Debug\Common.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\Common\obj\Debug\Common.pdb

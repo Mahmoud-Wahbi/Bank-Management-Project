@@ -1,0 +1,16 @@
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\CurrencyUpdater.exe.config
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\CurrencyUpdater.exe.manifest
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\CurrencyUpdater.application
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\CurrencyUpdater.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\CurrencyUpdater.pdb
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.csproj.AssemblyReference.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.exe.manifest
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.application
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\Currency.B008298B.Up2Date
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\CurrencyUpdater\obj\Debug\CurrencyUpdater.pdb

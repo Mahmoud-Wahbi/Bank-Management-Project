@@ -1,0 +1,15 @@
+(لسهولة التجريب جميع كلمات السر موحدة وهي 1234)
+
+Usernames:
+US_Mohammed (لديه الصلاحيات فقط على عمليات العملاء)
+Noor
+Admin
+
+Clients Accounts Numbers:
+A144
+A145
+A111
+
+Persons ID's:
+177
+178

@@ -1,0 +1,7 @@
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\bin\Debug\FlagPathUpdater.exe.config
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\bin\Debug\FlagPathUpdater.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\bin\Debug\FlagPathUpdater.pdb
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\obj\Debug\FlagPathUpdater.csproj.AssemblyReference.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\obj\Debug\FlagPathUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\obj\Debug\FlagPathUpdater.exe
+C:\Users\Mamhoud\Desktop\Bank Project Main\FlagPathUpdater\FlagPathUpdater\obj\Debug\FlagPathUpdater.pdb

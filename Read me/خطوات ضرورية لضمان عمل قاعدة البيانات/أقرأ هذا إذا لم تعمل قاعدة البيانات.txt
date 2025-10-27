@@ -1,0 +1,2 @@
+فقط عليك التأكد من أن إضافة Data storage and processing  مثبتة من  Visual studio installer
+حجم الإضافة لا يتجاوز 300 ميغا بايت
