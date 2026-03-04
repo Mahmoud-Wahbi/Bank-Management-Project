@@ -79,6 +79,7 @@ The project follows a **Three-Tier (Layered) Architecture** to ensure *Separatio
 <img width="1340" height="753" alt="Total Balances" src="https://github.com/user-attachments/assets/6b4beae2-434c-430a-82ac-fc870ff1f6c2" />
 <img width="1344" height="765" alt="FIND CLIENT" src="https://github.com/user-attachments/assets/c0c33f5e-576b-416b-b304-51d4aec42a54" />
 <img width="1343" height="758" alt="LIST CLIENTS" src="https://github.com/user-attachments/assets/6bca597a-874a-4dd1-a3ea-b42d2945bb1b" />
+<img width="2856" height="849" alt="Bank System Reletional schema مخطط البنك" src="https://github.com/user-attachments/assets/c036dc69-1f0f-4c9e-95be-6917c88dea52" />
 ---
 
 ## 🚀 Getting Started
