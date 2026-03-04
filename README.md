@@ -19,11 +19,9 @@ The project follows a Three-Tier (Layered) Architecture to ensure "Separation of
 •	AI Integration: Google Gemini Pro API 
 •	External APIs: Real-time Exchange Rate APIs 
 📸 Screen Previews
-<img width="1339" height="752" alt="Bank Dashboard" src="https://github.com/user-attachments/assets/4384bef2-ba55-46fc-abbb-828cc935e78b" />
-<img width="1342" height="755" alt="Transfer Form" src="https://github.com/user-attachments/assets/3b8c3f18-1259-4031-9293-d2e12921bc78" />
-<img width="1340" height="754" alt="Transfer Form2" src="https://github.com/user-attachments/assets/709191bc-4a2d-41b8-999d-7cb15e803dea" />
-<img width="1340" height="753" alt="Total Balances" src="https://github.com/user-attachments/assets/59923011-0812-40f4-811c-b22f408ebc91" />
-<br>
+(Note: Replace these placeholders with your actual project screenshots to impress employers)
+•	Dashboard: Professional charts showing financial flow.
+•	Transaction Logs: Clear table views of every action.
 •	AI ChatBot: Interactive terminal for financial assistance.
 🚀 Getting Started
 Prerequisites
@@ -37,11 +35,10 @@ git clone https://github.com/Relax-2001/Bank-Management-Project.git
 2.	Setup Database: Execute the provided SQL script in the Database/ folder to generate tables and stored procedures.
 3.	Configure Connection: Update the connection string in the DataAccessLayer or App.config.
 4.	Run: Open the .sln file in Visual Studio and press F5.
-📜 Future Roadmap![Uploading Bank Dashboard.png…]()
-
+📜 Future Roadmap
 •	[ ] Developing a Web version.
 •	[ ] Implementing Two-Factor Authentication (2FA).
 •	[ ] Extending AI capabilities to perform direct transactions.
 👨‍💻 Author
-Mahmoud Wahbi
+Mahmoud Wahbi CS Student at Syrian Virtual University (SVU)
 
